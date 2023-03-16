@@ -5,6 +5,7 @@
 Course taken : [100 days of coding in python by Angela YU]()
 
 # Contents
-<img src="https://user-images.githubusercontent.com/120945994/225547943-e20b3e05-f1b7-4c15-b169-92bd7af8ceca.png" height="100px" width="100px">
+<img src="![image](https://user-images.githubusercontent.com/120945994/225549029-4b3fe30a-a75f-4185-a39a-52c4fc2c13ab.png)
+" height="150px" width="150px">
 
 
