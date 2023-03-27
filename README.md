@@ -4,8 +4,7 @@
 
 Course taken : [100 days of coding in python by Angela YU]()
 
-# Contents
-<img src="![image](https://user-images.githubusercontent.com/120945994/225549029-4b3fe30a-a75f-4185-a39a-52c4fc2c13ab.png)
-" height="150px" width="150px">
+# Concepts Covered
+
 
 
