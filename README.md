@@ -8,6 +8,7 @@ Course taken : [100 days of coding in python by Angela YU]()
 
 
 
+| **S.no** | **Topic** |
 |---------:|----------:|
 | - [ ] Mercury
 - [x] Venus
@@ -18,7 +19,7 @@ Course taken : [100 days of coding in python by Angela YU]()
 - [ ] Uranus
 - [ ] Neptune
 - [ ] Comet Haley        | HTML      |
-|         | CSS       |
+| 2        | CSS       |
 |          |           |
 - [ ] Mercury
 - [x] Venus
