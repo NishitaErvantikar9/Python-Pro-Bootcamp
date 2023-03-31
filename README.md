@@ -16,3 +16,6 @@ Course taken : [100 days of coding in python by Angela YU]()
 - [ ] Neptune
 - [ ] Comet Haley
 
+*** promo
+Promotions can raise awareness of an important concept.
+***
