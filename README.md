@@ -13,12 +13,12 @@ Course taken : [100 days of coding in python by Angela YU]()
 | - [ ] Mercury
 - [x] Venus
 - [x] Earth (Orbit/Moon)
-- [x] Mars
+       |- [x] Mars
 - [ ] Jupiter
 - [ ] Saturn
 - [ ] Uranus
 - [ ] Neptune
-- [ ] Comet Haley        | HTML      |
+- [ ] Comet Haley     |
 | 2        | CSS       |
 |          |           |
 - [ ] Mercury
