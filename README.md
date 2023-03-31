@@ -5,30 +5,28 @@
 Course taken : [100 days of coding in python by Angela YU]()
 
 ## Concepts Covered
-
-
-
-| **S.no** | **Topic** |
-|---------:|----------:|
-| - [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-       |- [x] Mars
-- [ ] Jupiter
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley     |
-| 2        | CSS       |
-|          |           |
-- [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [x] Mars
-- [ ] Jupiter
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-
-
+ <table>
+    <tr>
+      <td>- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media</td>
+      <td>- [ ] Update the website</td>
+      <td></td>
+    </tr>
+     <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+     <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+     <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </table>
 
