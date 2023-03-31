@@ -7,10 +7,12 @@ Course taken : [100 days of coding in python by Angela YU]()
 ## Concepts Covered
  <table>
     <tr>
-      <td>- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media</td>
-      <td>- [ ] Update the website</td>
+      <td>
+       - [x] Write the press release
+       - [ ] Update the website
+       - [ ] Contact the media</td>
+      <td>
+       - [ ] Update the website</td>
       <td></td>
     </tr>
      <tr>
