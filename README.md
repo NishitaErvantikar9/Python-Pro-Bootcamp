@@ -4,7 +4,15 @@
 
 Course taken : [100 days of coding in python by Angela YU]()
 
-# Concepts Covered
+## Concepts Covered
 
-
+[ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley
 
