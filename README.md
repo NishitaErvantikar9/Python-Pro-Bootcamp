@@ -6,6 +6,20 @@ Course taken : [100 days of coding in python by Angela YU]()
 
 ## Concepts Covered
 
+
+
+|---------:|----------:|
+| - [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley        | HTML      |
+|         | CSS       |
+|          |           |
 - [ ] Mercury
 - [x] Venus
 - [x] Earth (Orbit/Moon)
@@ -16,18 +30,4 @@ Course taken : [100 days of coding in python by Angela YU]()
 - [ ] Neptune
 - [ ] Comet Haley
 
-|||---|||
-#### Columns
 
-can save space.
-
-#### Prettify
-
-the page layout.
-
-*** promo
-#### Can be
-
-trendy.
-***
-|||---|||
