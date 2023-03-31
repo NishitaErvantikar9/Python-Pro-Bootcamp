@@ -29,6 +29,6 @@ Course taken : [100 days of coding in python by Angela YU]()
 - [ ] Saturn
 - [ ] Uranus
 - [ ] Neptune
-- [ ] Comet Haley
+
 
 
