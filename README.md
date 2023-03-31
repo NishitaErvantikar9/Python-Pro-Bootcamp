@@ -16,5 +16,18 @@ Course taken : [100 days of coding in python by Angela YU]()
 - [ ] Neptune
 - [ ] Comet Haley
 
+|||---|||
+#### Columns
+
+can save space.
+
+#### Prettify
+
+the page layout.
+
 *** promo
-Promotions can raise awareness of an important concept.***
+#### Can be
+
+trendy.
+***
+|||---|||
