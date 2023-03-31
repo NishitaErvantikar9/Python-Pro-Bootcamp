@@ -6,7 +6,7 @@ Course taken : [100 days of coding in python by Angela YU]()
 
 ## Concepts Covered
 
-[ ] Mercury
+- [ ] Mercury
 - [x] Venus
 - [x] Earth (Orbit/Moon)
 - [x] Mars
