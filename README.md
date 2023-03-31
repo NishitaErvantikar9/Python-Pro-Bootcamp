@@ -17,5 +17,4 @@ Course taken : [100 days of coding in python by Angela YU]()
 - [ ] Comet Haley
 
 *** promo
-Promotions can raise awareness of an important concept.
-***
+Promotions can raise awareness of an important concept.***
