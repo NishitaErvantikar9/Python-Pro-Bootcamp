@@ -2,7 +2,7 @@
 
 ## BlackJack Project
 
-<img src="https://user-images.githubusercontent.com/120945994/231858251-cb999703-0dc2-4adc-a610-5993b1c69e88.png" height="50px" width="80px")
+<img src="https://user-images.githubusercontent.com/120945994/231859287-2c2e59c4-6a26-4c6f-bc39-bfab104685e8.png" height="50px" width="80px">
 ![image](https://user-images.githubusercontent.com/120945994/231859287-2c2e59c4-6a26-4c6f-bc39-bfab104685e8.png)
 
 
