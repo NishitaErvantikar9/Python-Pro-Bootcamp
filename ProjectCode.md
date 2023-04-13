@@ -4,8 +4,7 @@
 
 <img src="https://user-images.githubusercontent.com/120945994/231859287-2c2e59c4-6a26-4c6f-bc39-bfab104685e8.png" height="300px" width="450px">
 <details>
-<summary>Code`</summary>
-
+<summary>Code</summary>
                         import random
                         from replit import clear
                         from art import logo
